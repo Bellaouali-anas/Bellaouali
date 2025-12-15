@@ -1,0 +1,192 @@
+{
+  "basics": {
+    "name": "Anas Bellaouali",
+    "label": "Mathematical Researcher & Educator",
+    "image": "assets/img/avatar.jpg",
+    "email": "bellaoualai.anas@gmail.com",
+    "phone": "+212632994962",
+    "url": "https://Bellaouali-anas.github.io/Bellaouali",
+    "summary": "Dual-career professional blending advanced Computational Mathematics with passionate Pedagogy. Dedicated to bridging the gap between complex algorithmic theory and accessible, student-centered learning. Experienced in numerical analysis, optimization, and developing educational technologies.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Anas Bellaouali",
+        "url": "https://linkedin.com/in/anas-bellaouali"
+      },
+      {
+        "network": "GitHub",
+        "username": "Bellaouali-anas",
+        "url": "https://github.com/Bellaouali-anas"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Teaching Experience",
+      "position": "Mathematics Teacher",
+      "url": "",
+      "startDate": "2022-09-01",
+      "endDate": "Present",
+      "summary": "Delivering comprehensive mathematics curriculum with a focus on conceptual understanding and real-world application.",
+      "highlights": [
+        "Implementing differentiated instruction strategies to support diverse learning styles.",
+        "Integrating technology into lesson plans to visualize complex mathematical concepts."
+      ]
+    },
+    {
+      "name": "Teaching Experience",
+      "position": "Mathematics Teaching Intern",
+      "url": "",
+      "startDate": "2021-09-01",
+      "endDate": "2022-06-30",
+      "summary": "Assisted in curriculum delivery and student support, gaining foundational pedagogical experience.",
+      "highlights": [
+        "Collaborated with senior faculty to develop engaging instructional materials.",
+        "Provided one-on-one tutoring to students requiring additional support."
+      ]
+    },
+    {
+      "name": "Research & Technical Work",
+      "position": "Master's Researcher",
+      "url": "",
+      "startDate": "2020-09-01",
+      "endDate": "2021-07-30",
+      "summary": "Conducted advanced research in Computational Mathematics, focusing on filtering algorithms and optimization.",
+      "highlights": [
+        "Final Research Project: Kalman Filtering applications.",
+        "Developed numerical simulations to validate theoretical models."
+      ]
+    },
+     {
+      "name": "Research & Technical Work",
+      "position": "Algorithm Developer",
+      "url": "",
+      "startDate": "2020-01-01",
+      "endDate": "2020-06-30",
+      "summary": "Project-based role focusing on algorithmic visualization.",
+      "highlights": [
+        "TSP Algorithm Visualization Project: created interactive tools to demonstrate optimization processes."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University (inferred from context)",
+      "location": "Morocco",
+      "url": "",
+      "area": "Computational Mathematics",
+      "studyType": "Master's Degree",
+      "startDate": "2019-09-01",
+      "endDate": "2021-07-01",
+      "score": "",
+      "courses": [
+        "Numerical Analysis",
+        "Optimization",
+        "Stochastic Calculus",
+        "Statistics"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Advanced Kalman Filtering and Smoothing",
+      "summary": "A comprehensive research project exploring state estimation in noisy systems.",
+      "highlights": [
+        "Implemented Extended Kalman Filter (EKF) for non-linear systems.",
+        "Analyzed smoothing techniques to improve historical data accuracy.",
+        "Applied to real-world tracking scenarios."
+      ],
+      "keywords": ["Python", "MATLAB", "State Estimation", "Research"],
+      "startDate": "2021-01-01",
+      "endDate": "2021-06-01",
+      "url": ""
+    },
+    {
+      "name": "TSP Optimization Algorithm Visualization",
+      "summary": "An interactive dashboard visualizing the Traveling Salesperson Problem.",
+      "highlights": [
+        "Visualized genetic algorithms and simulated annealing approaches.",
+        "Designed to be used as an educational tool for explaining NP-hard problems.",
+        "Built with Python and visualization libraries."
+      ],
+      "keywords": ["Python", "Optimization", "Visualization", "Pedagogy"],
+      "startDate": "2020-01-01",
+      "endDate": "2020-05-01",
+      "url": ""
+    },
+    {
+      "name": "Educational Data Analytics Toolkit",
+      "summary": "A suite of tools designed to analyze student performance data.",
+      "highlights": [
+        "Key pedagogical tool identifying learning gaps.",
+        "Automated reporting for personalized student feedback.",
+        "Integrates research-grade statistics into classroom management."
+      ],
+      "keywords": ["Data Analysis", "Pedagogy", "Statistics", "EdTech"],
+      "startDate": "2022-01-01",
+      "endDate": "Present",
+      "url": ""
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming & Modeling",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python",
+        "MATLAB",
+        "Numerical Simulation"
+      ]
+    },
+    {
+      "name": "Mathematics & Research",
+      "level": "Expert",
+      "icon": "fa-solid fa-square-root-variable",
+      "keywords": [
+        "Numerical Analysis",
+        "Optimization",
+        "Stochastic Calculus",
+        "Statistics"
+      ]
+    },
+    {
+      "name": "Teaching & Pedagogy",
+      "level": "Experienced",
+      "icon": "fa-solid fa-chalkboard-user",
+      "keywords": [
+        "Lesson Planning",
+        "Differentiated Instruction",
+        "Educational Technology"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "French",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Native",
+      "icon": ""
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "awards": [],
+  "volunteer": []
+}
